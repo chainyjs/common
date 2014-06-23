@@ -15,7 +15,7 @@
     "official"
   ],
   "badges": {
-    "travis": true,
+    "travis": false,
     "npm": true,
     "david": true,
     "daviddev": true,
