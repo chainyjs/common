@@ -1,0 +1,54 @@
+{
+  "name": "chainy-bundle-common",
+  "version": "1.0.1",
+  "title": "Common bundle for [ChainyJS](http://chainyjs.org)",
+  "description": "Chainy bundle for the set, each, map, log, count, trickle plugins",
+  "homepage": "https://github.com/chainy-bundles/common",
+  "license": {
+    "type": "MIT"
+  },
+  "keywords": [
+    "chainy",
+    "chainy-addon",
+    "chainy-bundle",
+    "common",
+    "official"
+  ],
+  "badges": {
+    "travis": true,
+    "npm": true,
+    "david": true,
+    "daviddev": true,
+    "gittip": "bevry",
+    "flattr": "344188/balupton-on-Flattr",
+    "paypal": "QB8GQPZAH84N6",
+    "bitcoin": "https://coinbase.com/checkouts/9ef59f5479eec1d97d63382c9ebcb93a",
+    "wishlist": "http://amzn.com/w/2F8TXKSNAFG4V"
+  },
+  "bugs": {
+    "url": "https://github.com/chainy-bundles/common/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/chainy-bundles/common.git"
+  },
+  "author": "2014+ Bevry Pty Ltd <us@bevry.me> (http://bevry.me)",
+  "maintainers": [
+    "Benjamin Lupton <b@lupton.cc> (https://github.com/balupton)"
+  ],
+  "contributors": [],
+  "dependencies": {},
+  "peerDependencies": {
+    "chainy": "*",
+    "chainy-plugin-set": "*",
+    "chainy-plugin-each": "*",
+    "chainy-plugin-map": "*",
+    "chainy-plugin-log": "*",
+    "chainy-plugin-count": "*",
+    "chainy-plugin-trickle": "*"
+  },
+  "devDependencies": {
+    "projectz": "~0.3.15"
+  },
+  "browsers": true
+}
